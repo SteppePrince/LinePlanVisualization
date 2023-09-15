@@ -1,7 +1,6 @@
-# -*- coding: UTF-8 -*-
 from setuptools import setup, find_packages
 
-with open("README.md", 'r') as ld:
+with open("README.md", 'r', encoding="utf-8") as ld:
     long_description = ld.read()
 
 setup(name="line_plan_visualization",
