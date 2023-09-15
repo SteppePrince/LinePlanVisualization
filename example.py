@@ -1,6 +1,6 @@
-from line_plan_visualization.line_plan import LinePlan
-from line_plan_visualization.train_lines import Lines
-from line_plan_visualization.pyhsical_railway import PhysicalRailWay
+from line_plan_visualization import LinePlan
+from line_plan_visualization import Lines
+from line_plan_visualization import PhysicalRailWay
 import random
 import time
 
