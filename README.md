@@ -5,7 +5,7 @@ According to our specified data structure, your line plan can be visualized easi
 
 ## Install
 ```python
-pip install lian_plan_visualization
+pip install line_plan_visualization
 ```
 
 
