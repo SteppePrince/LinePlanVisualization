@@ -49,11 +49,11 @@ class LinePlan(object):
             figsize: https://matplotlib.org/stable/api/figure_api.html
             dpi: https://matplotlib.org/stable/api/figure_api.html
             pr_marker: stations symbols on the PhysicalRailway
-                       'dict' type with Key: "high", "medium" or "low" and Value: marker
+                       'dict' type with Key: "high", "medium" and "low" and Value: marker
                        e.g. pr_marker={"high": 's', "medium": 'o', "low": '.'}
                        https://matplotlib.org/stable/api/markers_api.html
             pr_markercolor: stations symbols colors on the PhysicalRailway
-                            'dict' type with Key: "high", "medium" or "low" and Value: color
+                            'dict' type with Key: "high", "medium" and "low" and Value: color
                             e.g. pr_markercolor={"high": "red", "medium": "purple", "low": "black"}
                             https://matplotlib.org/stable/tutorials/colors/index.html
             pr_markersize: stations symbols size on the PhysicalRailway
