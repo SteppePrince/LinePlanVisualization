@@ -4,7 +4,7 @@ with open("README.md", 'r') as ld:
     long_description = ld.read()
 
 setup(name="line_plan_visualization",
-      version="0.0.3",
+      version="0.0.4",
       author="Macroda",
       author_email="SteppePrince@outlook.com",
       description="A visualization tool for line plan",
